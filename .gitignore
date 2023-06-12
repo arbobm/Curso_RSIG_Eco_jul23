@@ -6,3 +6,4 @@
 find . -size +100M | cat >> .gitignore
 
 *.docx
+Lista_interessados.xlsx
