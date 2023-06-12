@@ -3,5 +3,6 @@
 .Rdata
 .httr-oauth
 .DS_Store
-Lista de interessados.xlsx
-.docx
+find . -size +100M | cat >> .gitignore
+/Lista de interessados.xlsx
+*.docx
