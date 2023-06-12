@@ -4,5 +4,5 @@
 .httr-oauth
 .DS_Store
 find . -size +100M | cat >> .gitignore
-/Lista de interessados.xlsx
+
 *.docx
